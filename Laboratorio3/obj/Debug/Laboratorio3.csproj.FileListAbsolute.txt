@@ -1,0 +1,7 @@
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.AssemblyReference.cache
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\LEGYON\Documents\archivos uni\curso programacion I\laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
